@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357350767"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\dinhq\OneDrive\Máy tính\tsf\lib\x86_64-win64&quot; &quot;-FuC:\Users\dinhq\OneDrive\Máy tính\tsf\&quot; &quot;-FUC:\Users\dinhq\OneDrive\Máy tính\tsf\lib\x86_64-win64\&quot; &quot;-FEC:\Users\dinhq\OneDrive\Máy tính\tsf\&quot; &quot;-oC:\Users\dinhq\OneDrive\Máy tính\tsf\project1.exe&quot; project1.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
